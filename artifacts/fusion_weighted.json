@@ -1,0 +1,10 @@
+{
+  "bm25_lemma": 0.25,
+  "log_expand": 0.25,
+  "dense_e5": 2,
+  "char": 0,
+  "bm25_title": 0.25,
+  "log_mc": 0.25,
+  "log_items": 1,
+  "geo": 0.1
+}

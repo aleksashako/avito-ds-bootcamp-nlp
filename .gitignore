@@ -1,0 +1,13 @@
+artifacts/*
+!artifacts/fusion_logreg.joblib
+!artifacts/fusion_weighted.json
+!artifacts/val_queries.parquet
+!artifacts/val_truth.parquet
+!artifacts/val_fit_idx.npy
+!artifacts/rank_queries.parquet
+!artifacts/rank_truth.parquet
+!artifacts/rank_fit_idx.npy
+dataset/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
